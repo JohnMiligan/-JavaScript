@@ -1,0 +1,12 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(15, 55, 129);
+    color: #fff;
+    text-align: center;
+}
+
+.goods-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
